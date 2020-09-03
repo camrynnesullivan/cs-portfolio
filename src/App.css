@@ -1,41 +1,42 @@
 .header-color {
-  background: #833ab4; /* fallback for old browsers */
+  background: #b3ffab; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #fcb045,
-    #fd1d1d,
-    #833ab4
+    #12fff7,
+    #b3ffab
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #fcb045,
-    #fd1d1d,
-    #833ab4
+    #12fff7,
+    #b3ffab
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  /* color: white;
+
   font-weight: bold;
-  font-size: 2em; */
+  font-size: 2em;
 }
 .landing-grid {
-  background: #833ab4; /* fallback for old browsers */
+  background: #b3ffab; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #fcb045,
-    #fd1d1d,
-    #833ab4
+    #12fff7,
+    #b3ffab
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #fcb045,
-    #fd1d1d,
-    #833ab4
+    #12fff7,
+    #b3ffab
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   text-align: center;
   position: fixed;
   /* top: 0; */
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.projects-grid {
+  display: flex;
 }
 
 .circular-square {

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 import ProfPic from "./assets/ProfPic.jpg";
 
-class LandingPage extends Component {
+class Home extends Component {
   render() {
     return (
       <div style={{ width: "100%", margin: "auto" }}>
@@ -47,4 +47,4 @@ class LandingPage extends Component {
   }
 }
 
-export default LandingPage;
+export default Home;
