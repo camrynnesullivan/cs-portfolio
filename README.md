@@ -42,7 +42,7 @@
 - See deployed app on
   [Heroku ](https://cs-portfolio-columbia-bootcamp.herokuapp.com/)
   and
-  [GitHub ](https://github.com/camrynnesullivan/Fitness-Tracker)
+  [GitHub ](https://github.com/camrynnesullivan/cs-portfolio)
 
   to test features.
 
